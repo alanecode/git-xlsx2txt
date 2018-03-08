@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+xlsx2csv -a "$1"
